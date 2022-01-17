@@ -1,0 +1,31 @@
+﻿a:link{
+    text-decoration:none;
+    font-size:14px;
+    font-family:'Segoe UI';
+    font-style:normal;
+}
+a:hover{
+    font-size:17px;
+    color:#7984dd;
+}
+.tb5 {
+    border: 2px solid #456879;
+    border-radius: 10px;
+    height: 22px;
+    width: 230px;
+    font-size: medium;
+    font-weight: 700;
+}
+.fb5 {
+	padding: 3px 6px;
+    background-color: #686868;
+	color: #FFFFFF;
+	border:1px solid #ffffff;
+	background-image: url('images/button_bg.jpg');
+    font-size: medium;
+}
+.fb5:hover {
+	background-color: #009413;	
+	border:1px solid #000000;
+	background-image: url(images/button_bg_over.jpg);
+}
